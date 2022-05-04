@@ -1,4 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
 
-# Qual objetivo do Desafio?
-Repositório criado para o desafio de projeto da Digital Innovation One - DIO.
+# Objetivo do projeto.
+
+O projeto tem como objetivo reforçar o conhecimento em Git com um desafio totalmente prático, onde sera executado todos os passos para a criação, atualização e sincronização de um repositório no Git/GitHub.
