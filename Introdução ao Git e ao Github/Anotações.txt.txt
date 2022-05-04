@@ -1,2 +1,7 @@
 Link para dowloand do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Como manipular o repositório na máquina:
+Ao fazer as modificações é necessario o comando: git add * ou git add . para adicionar os arquivos para a área de staging;
+Usa-se o comando git commit -m "texto explicando as modificações" para fazer o commit e adicionar os arquivos no repositório local;
+Por fim use o comando git push origin master para adicionar as modificações no repositório remoto.
