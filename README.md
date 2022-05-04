@@ -1,5 +1,4 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
 
 # Qual objetivo do Desafio?
-O projeto tem como objetivo reforçar o conhecimento em Git com um desafio totalmente prático, onde o autor executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
-
+Repositório criado para o desafio de projeto, incluir todas as atividades da Digital Innovation One - DIO, Em cada Bootcamp, na DIO (Digital Innovation One), possui alguns desafios, para que possa concluir e então adquirir o certificado de conclusão.
