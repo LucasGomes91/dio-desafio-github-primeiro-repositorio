@@ -1,4 +1,4 @@
-![Logo do PC](https://www.imagensempng.com.br/wp-content/uploads/2021/10/752-1.png)# Desafio de Projeto sobre Git/GitHub da DIO
+![Logo do PC](https://e7.pngegg.com/pngimages/274/359/png-clipart-computer-hardware-computer-icons-open-source-hardware-computer-desktop-pc-electronics-computer.png)# Desafio de Projeto sobre Git/GitHub da DIO
 
 # Qual objetivo do Desafio?
 Repositório criado para o desafio de projeto da Digital Innovation One - DIO.
